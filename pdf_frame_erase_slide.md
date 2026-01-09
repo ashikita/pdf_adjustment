@@ -15,7 +15,7 @@
 
 ## 🚀 Google Colab で開く
 
-GitHub にアップロード後、以下のようなバッジを利用して Colab 実行できます：
+GitHub にアップロード後、以下のようなバッジを利用して Colab 実行できます：  
 ![Open In Colab](https://camo.githubusercontent.com/eff96fda6b2e0fff8cdf2978f89d61aa434bb98c00453ae23dd0aab8d1451633/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)
 
 ---
@@ -58,9 +58,3 @@ Issue / Pull Request をご利用ください。
 
 ---
 
-必要であれば、  
-- 英語版 README  
-- 詳細版 README  
-- LICENSE テンプレ  
-- サンプル PDF の扱いに関する注意書き  
-などもあわせて準備できます。
